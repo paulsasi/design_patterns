@@ -24,3 +24,5 @@ class CountryShop(Shop):
 
     def create_product(self, price: int):
         return product.Shoe(price=price)
+
+

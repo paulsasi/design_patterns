@@ -1,3 +1,3 @@
 # Design Patterns
 
-https://refactoring.guru/design-patterns/bridge
+Special mention to: https://refactoring.guru/es/design-patterns
